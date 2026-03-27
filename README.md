@@ -7,6 +7,8 @@ This is a basic crowdsourcing smart contract built using Soroban on the Stellar 
 It allows users to create projects and fund them in a simple way.
 
 ---
+<img width="1850" height="869" alt="image" src="https://github.com/user-attachments/assets/6f7ed760-e4e2-4ff3-8629-ccab0daaff20" />
+
 
 ## What it does
 
